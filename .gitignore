@@ -1,0 +1,18 @@
+# Claude config
+.claude/
+
+# Generated PDFs (trop lourds, on les régénère)
+*.pdf
+
+# Temp files
+*.tmp
+*.bak
+~$*
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Original prompt (privé)
+Prompt initial.txt
